@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Juan Saavedra",
-  title: "Analista de sopote senior",
+  title: "Analista de soporte senior",
   email: "juanrs911@hotmail.com",
   gitHub: "juanse911",
   instagram: "juanse911",
